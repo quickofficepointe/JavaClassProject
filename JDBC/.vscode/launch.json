@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LoopsArraysAssignment",
+            "request": "launch",
+            "mainClass": "LoopsArraysAssignment",
+            "projectName": "JDBC_1702031e"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BodmaSSample",
+            "request": "launch",
+            "vmArgs": "--module-path C:/Users/G.M.M/Downloads/Compressed/openjfx-22_windows-x64_bin-sdk/javafx-sdk-22/lib --add-modules javafx.controls,javafx.fxml",
+            "mainClass": "BodmaSSample",
+            "projectName": "JDBC_1702031e"
+        },
+        {
+            "type": "java",
+            "name": "DbEgConnect",
+            "request": "launch",
+            "mainClass": "DbEgConnect",
+            "projectName": "JDBC_1702031e"
+        }
+    ]
+}
